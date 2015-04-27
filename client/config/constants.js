@@ -1,4 +1,4 @@
 'use strict';
 
-angular.module('poseidon')
+angular.module('angBank')
 .constant('firebaseUrl', 'https://angularbank.firebaseio.com/');

@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('poseidon')
+angular.module('angBank')
 .factory('User', function($rootScope){
 
   function User(){
